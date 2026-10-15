@@ -6,7 +6,7 @@ This project was developed for **CDS512 – Business Intelligence and Decision A
 
 ## Dashboard Preview
 
-![Global Sales Performance Dashboard](screenshots/dashboard-preview.png)
+![Global Sales Performance Dashboard](Global_Sales_Dashboard.png)
 
 ## Project Overview
 
